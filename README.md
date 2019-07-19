@@ -273,11 +273,7 @@ wireframes, mockups, diagrams and prototypes.
 
 ## Team Management
 - [ ] [Airtable](https://airtable.com) - Spreadsheet, meet database.
-- [ ] [Trello](https://trello.com/) - Trello makes it easy to organize anything with anyone
-- [ ] [Google Drive, Docs, sheets etc.](https://drive.google.com/) - Create and share your work online and collaborate on literally any type of content
-- [ ] [Slack](https://slack.com) - Team communication for the 21st century
 - [ ] [Ramen](https://ramen.is/) - Ask your users questions while they’re on your website. The best way for SaaS product teams to learn from customers
-- [ ] [Evernote](https://evernote.com/) - Note taking made easy
 - [ ] [Keynote](https://www.apple.com/keynote/) - Make awesome presentations quickly
 - [ ] [Quip](https://quip.com/) - The productivity suite for the mobile generation
 - [ ] (invalid link) Do (http://do.com/) - Run Productive Meetings.
